@@ -2,6 +2,6 @@
 
 A real-time market analytics tool that classifies the S&P 500 into bull, bear, and sideways regimes using a Gaussian Hidden Markov Model (HMM), with a live dashboard built in Streamlit.
 
-🔗 Live app: [link](gjr-marketsregime.streamlit.app)
+🔗 Live app: [link](https://gjr-marketsregime.streamlit.app)
 
 
